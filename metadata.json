@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Tech",
+  "description": "Empresa de tecnologia especializada no desenvolvimento de sites, sistemas, aplicativos e soluções digitais sob medida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
